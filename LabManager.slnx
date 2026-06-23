@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="LabManager.Client/LabManager.Client.csproj" />
-  <Project Path="LabManager.Server/LabManager.Server.csproj" />
-  <Project Path="LabManager.Shared/LabManager.Shared.csproj" />
-</Solution>
